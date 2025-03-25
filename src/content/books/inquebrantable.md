@@ -2,7 +2,7 @@
 title: Inquebrantables
 author: Daniel Habif
 img: inquebrantables.jpg
-readTime: 412
+readTime: 312
 description: En su primer libro, Inquebrantables, Daniel Habif, proporciona inspiración y motivación para ayudar al lector superar obstáculos y crear la vida que desea vivir.
 buy:
     spain: https://amazon.com
